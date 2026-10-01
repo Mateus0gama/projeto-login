@@ -61,8 +61,8 @@ section#Login {
 
 div#imagem {
   display: block;
-  background: var(--corlilas) url(../imagens/pexels-aboodi-13694827.jpg)
-    no-repeat;
+  background: var(--corlilas)
+    url(../imagens/pexels-caio-rosendo-2154845373-34039755.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 200px;
