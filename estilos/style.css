@@ -31,9 +31,9 @@ Lilas: #5f2c82
 
 html,
 body {
-  background: url(../imagens/pexels-otavio-lins-1114454903-20799061.jpg)
-    no-repeat center center;
-
+  background: var(--corlilas)
+    url(../imagens/pexels-otavio-lins-1114454903-20799061.jpg) no-repeat center
+    center;
   background-size: cover;
   height: 100vh;
   width: 100vw;
