@@ -103,7 +103,6 @@ div.campo > label {
 
 div.campo > i {
   color: white;
-
   width: 40px;
   padding: 5px;
   font-size: 2em;
@@ -121,7 +120,6 @@ div.campo input {
 
 div.campo input:focus-within {
   background-color: white;
-  border: none;
 }
 
 form > input[type="submit"] {
